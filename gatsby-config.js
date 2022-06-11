@@ -7,11 +7,11 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `Saeb Mausoleum`,
+    siteTitleAlt: `Saeb Mausoleum`,
+    siteHeadline: `Saeb Mausoleum`,
+    siteUrl: `https://saeb.top`,
+    siteDescription: `The mausoleum is the burial place of Saeb Tabrizi, the famous iranian poet of 17th century.`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
     author: `@lekoarts_de`,
@@ -26,8 +26,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        short_name: `Saeb Mausoleum`,
+        description: `The mausoleum is the burial place of Saeb Tabrizi, the famous iranian poet of 17th century.`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
